@@ -264,6 +264,10 @@ export default class Toolbar extends Component {
                 <td>Flip orientation between down/across</td>
               </tr>
               <tr>
+                <td><code>Home</code> OR <code>End</code></td>
+                <td>Move cursor to the beginning or end of a clue</td>
+              </tr>
+              <tr>
                 <td>
                   <code>[</code> and
                   <code>]</code> OR
